@@ -279,7 +279,7 @@ npx superpowers-zh@latest --uninstall
 
 ## 🌟 相关项目生态
 
-**六个项目组合使用，覆盖 AI 编程 + AI 视频创作的完整链路。**
+**七个项目组合使用，覆盖 AI 编程 + AI 视频创作的完整链路。**
 
 | 项目 | 定位 | 一句话 |
 |------|------|-------|
@@ -289,6 +289,7 @@ npx superpowers-zh@latest --uninstall
 | **[ai-coding-guide](https://github.com/jnMetaCode/ai-coding-guide)** | 📖 实战教程 | 66 个 Claude Code 技巧 + 9 款工具最佳实践 + 配置模板 |
 | **[shellward](https://github.com/jnMetaCode/shellward)** | 🛡️ 安全中间件 | 8 层防御 + DLP 数据流 + 注入检测，**零依赖**（含 MCP Server） |
 | 🆕 **[ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts)** | 🎬 视频提示词 | Mx-Shell《丧尸清道夫》5 段式方法论 + Skill，Seedance / 小云雀 / Sora / 可灵 / 即梦通用 |
+| 🆕 **[local-agent-toolkit](https://github.com/jnMetaCode/local-agent-toolkit)** | 🛠️ Agent 本地三件套 | 给 agent 配上**记忆 / 技能管理 / 运行追踪**，零依赖、数据不出本机；本仓库 skills 可用 `npx @jnmetacode/skillet add jnMetaCode/superpowers-zh/skills/<名称>` 一键安装 |
 
 ---
 
