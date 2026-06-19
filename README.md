@@ -11,7 +11,7 @@ Chinese community edition of [superpowers](https://github.com/obra/superpowers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-> 📖 **配套阅读**：[《AI 编程实战 · 方法论三卷书》](https://book.aibuzhiyu.com/) — 10 个 AI 编程工具完整教程 + 真实踩坑 · superpowers 装好之后，配上方法论效率翻倍 · 在线书 + PDF · 永久免费
+> 📖 **配套学习**：[aiOlaOla — 学 · 用 · 创造 AI](https://aiolaola.com/) — 180 节免费 AI 编程课 + 《方法论三卷书》+ 实战社区 · superpowers 装好后配上方法论，效率翻倍 · 一个账号解锁全部 · 永久免费
 
 ### 📊 项目规模
 
